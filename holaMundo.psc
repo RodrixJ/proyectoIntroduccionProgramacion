@@ -1,3 +1,3 @@
 algoritmo holaMundo
-Escribir "Hola mundo mi nombre es Rodrigo";
+Escribir "Hola mundo mi nombre es Rodrigo Molina";
 finAlgoritmo
